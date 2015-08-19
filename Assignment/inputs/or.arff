@@ -1,0 +1,12 @@
+@relation rgen_test
+
+@attribute      x01     {0,1}
+@attribute      x02     {0,1}
+@attribute      x03     {0,1}
+
+@data
+
+0,0,0
+0,1,1
+1,0,1
+1,1,1
